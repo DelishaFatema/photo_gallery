@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(pink, yellow);
+}
+
+
+h1 {
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: red;
+}
+
+
+h4 {
+    font-size: 40px;
+    font-family: cursive;
+}
+
+
+img {
+    background-size: 40px;
+}
